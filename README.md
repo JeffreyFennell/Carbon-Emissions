@@ -1,11 +1,17 @@
-Carbon Emissions Data Project
+# Carbon Emissions Data Project
 
-Overlook:
+## Overlook:
 
-Requirements:
+## Requirements:
 
-How to read project:
+## How to read project:
 
-Questions being answered:
+## Questions being answered:
 
-Sources:
+- How have worldwide carbon emissions changed over time? Why?
+- Compare US to other world powers. Explain their differences.
+- How are US emissions trending amidst talk of climate change and global warming? The world?
+
+
+## Sources:
+- Dataset: https://www.kaggle.com/datasets/ulrikthygepedersen/co2-emissions-by-country
