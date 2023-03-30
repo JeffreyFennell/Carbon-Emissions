@@ -1,14 +1,21 @@
 # Carbon Emissions Data Project
 
 ## Overlook:
+Climate change has been a growing topic of concerns for what seems forever now. Despite all of the news headlines and horrible milestones that the entire Earth has encountered, we still seem to be operating in a such a way that would all but guaranteed absolute fiery doom. Well... not our but your children's children's children's children's yada yada yada. I'm sure they wouldn't like the burn, though. I've heard it's not all that pleasant a sensation. 
+
+Enter this beginner level project. I'll be using my rudimentary analytical skills to try to paint a picture of where we started and where we're going in terms of carbon emissions. It should be noted, however, that emissions are but one part of the climate/environmental crisis. It's a multifaceted problem, after all. Have you heard of the trash island floating in the ocean?!
 
 ## Requirements:
 - Please make sure to run the included requirements.txt before attempting to execute the project.
-- The .ipynb will be accessing the co2_emissions_kt_by_country.csv dataset located in the assets folder so ensure that you are working in the correct directory.
+- To begin, open the carbon_emissions_final.ipynb.
+- The .ipynb  will be accessing the co2_emissions_kt_by_country.csv dataset located in the assets folder so ensure that you are working in the correct directory.
+- There is an additional backup_country_codes.csv listed under assets just in case my raw country codes data doesn't properly read in via the url. If the url fails, then follow the marked down instructions in the jupyter notebook.
+
 ## How to read project:
 
 ## Questions being answered:
 
+- Per the data, which countries currently produce the most carbon?
 - What is the US's general history of carbon emission?
 - Average US emissions per decade? #Use pd.loc following the instructions from: https://www.statology.org/pandas-select-rows-based-on-column-values/
     - World?
