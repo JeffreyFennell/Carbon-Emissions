@@ -20,4 +20,5 @@
 
 
 ## Sources:
-- Dataset: https://www.kaggle.com/datasets/ulrikthygepedersen/co2-emissions-by-country
+- Dataset:          https://www.kaggle.com/datasets/ulrikthygepedersen/co2-emissions-by-country
+- Country Codes:    https://raw.githubusercontent.com/lukes/ISO-3166-Countries-with-Regional-Codes/master/all/all.csv
