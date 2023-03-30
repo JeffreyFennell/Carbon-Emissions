@@ -24,6 +24,7 @@ Enter this beginner level project. I'll be using my rudimentary analytical skill
 - Compare US to other world powers. Explain their differences, potentially.
 - How are US emissions trending amidst current talks of climate change and global warming? 
     - The world?
+- Percentage of world emissions for each of the top 5?
 
 
 ## Sources:
