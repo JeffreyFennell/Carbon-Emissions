@@ -19,12 +19,8 @@ Personally, I write in a conversational tone. I view this project as more of a t
 - Per the data, which countries currently produce the most carbon?
 - What is the US's general history of carbon emission?
 - Average US emissions per decade? #Use pd.loc following the instructions from: https://www.statology.org/pandas-select-rows-based-on-column-values/
-    - World?
-- How have worldwide carbon emissions changed over time? 
-    - Why?
-- Compare US to other world powers. Explain their differences, potentially.
+- Compare US to other countries within the top 5 carbon emitters.
 - How are US emissions trending amidst current talks of climate change and global warming? 
-    - The world?
 - Percentage of world emissions for each of the top 5?
 
 ## Code Louisville Project Requirements:
@@ -41,7 +37,9 @@ Personally, I write in a conversational tone. I view this project as more of a t
     - Mean output per decade was generated.
     - Percent change calculated on data points.
 - Visualize Data
-    - Multiple graphs were generated
+    - Multiple graphs were generated.
+    - Experimented with multiple axes in a single figure. Haven't quite gotten the hang of that one. I feel there is room for improvement and downsizing the amount of code present. (See Japan, India, and China figure)
+    - Actually created a relevant pie chart.
 
 
 ## Sources:
