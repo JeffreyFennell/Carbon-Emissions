@@ -1,6 +1,6 @@
 # Carbon Emissions Data Project
 
-## Overlook:
+## Overview:
 Climate change has been a growing topic of concerns for what seems forever now. Despite all of the news headlines and horrible milestones that the entire Earth has encountered, we still seem to be operating in a such a way that would all but guaranteed absolute fiery doom. Well... not our but your children's children's children's children's yada yada yada. I'm sure they wouldn't like the burn, though. I've heard it's not all that pleasant a sensation. 
 
 Enter this beginner level project. I'll be using my rudimentary analytical skills to try to paint a picture of where we started and where we're going in terms of carbon emissions. It should be noted, however, that emissions are but one part of the climate/environmental crisis. It's a multifaceted problem, after all. Have you heard of the trash island floating in the ocean?!
@@ -27,6 +27,7 @@ Personally, I write in a conversational tone. I view this project as more of a t
     - via local file
     - via URL
 - Manipulated and Cleaned data
+    - Briefly demonstrated pivoting and transposing dataframes
     - Rounded data to nearest hundredths
     - Renamed columns for better readability
     - Used second CSV file to help filter primary CSV (Hardcore coding right there!)
