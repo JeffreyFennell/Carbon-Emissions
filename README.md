@@ -15,7 +15,6 @@ Enter this beginner level project. I'll be using my rudimentary analytical skill
 Personally, I write in a conversational tone. I view this project as more of a teachable piece for me and less so a professional showcase for future employers. I've marked down pieces of code to help explain why it was needed and what it was accomplishing. Hopefully, this will serve as an aid for me in the future when I'm working on future, more serious projects.
 
 ## Questions being answered:
-
 - Per the data, which countries currently produce the most carbon?
 - What is the US's general history of carbon emission?
 - Compare US to other countries within the top 5 carbon emitters.
