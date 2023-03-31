@@ -42,6 +42,7 @@ Personally, I write in a conversational tone. I view this project as more of a t
         - Helped with calculating percent change (mentioned above)
 - Visualize Data
     - Multiple graphs were generated.
+        - Two different methods showcased.
     - Experimented with multiple axes in a single figure. Haven't quite gotten the hang of that one. I feel there is room for improvement and downsizing the amount of code present. (See Japan, India, and China figure)
     - Actually created a relevant pie chart.
         - Was able to determine percentage of output on a worldwide scale.
