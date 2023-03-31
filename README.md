@@ -29,16 +29,22 @@ Personally, I write in a conversational tone. I view this project as more of a t
 - Manipulated and Cleaned data
     - Rounded data to nearest hundredths
     - Renamed columns for better readability
+    - Used second CSV file to help filter primary CSV (Hardcore coding right there!)
     - Sorted data by specific date
+        - Then via carbon output in descending order (Ascending = False)
+    - Utilized concatenination to combine two separately created dataframes.
 - Analysis
     - Trendlines were generated
     - Percentage of the world output was calculated per top 5 country.
-    - Mean output per decade was generated.
     - Percent change calculated on data points.
+    - Used basic math functions
+        - Helped with generating pie charts
+        - Helped with calculating percent change (mentioned above)
 - Visualize Data
     - Multiple graphs were generated.
     - Experimented with multiple axes in a single figure. Haven't quite gotten the hang of that one. I feel there is room for improvement and downsizing the amount of code present. (See Japan, India, and China figure)
     - Actually created a relevant pie chart.
+        - Was able to determine percentage of output on a worldwide scale.
 
 
 ## Sources:
