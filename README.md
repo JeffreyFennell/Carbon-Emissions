@@ -12,13 +12,12 @@ Enter this beginner level project. I'll be using my rudimentary analytical skill
 - There is an additional backup_country_codes.csv listed under assets just in case my raw country codes data doesn't properly read in via the url. If the url fails, then follow the marked down instructions in the jupyter notebook.
 
 ## How to read project:
-Personally, I write in a conversational tone. I view this project as more of a teachable piece for me and less so a professional showcase for future employers. I've marked down pieces of code to help explain why it was needed and what it was accomplishing. Hopefully, this will serves as an aid for me in the future when I'm working on future, more serious projects.
+Personally, I write in a conversational tone. I view this project as more of a teachable piece for me and less so a professional showcase for future employers. I've marked down pieces of code to help explain why it was needed and what it was accomplishing. Hopefully, this will serve as an aid for me in the future when I'm working on future, more serious projects.
 
 ## Questions being answered:
 
 - Per the data, which countries currently produce the most carbon?
 - What is the US's general history of carbon emission?
-- Average US emissions per decade? #Use pd.loc following the instructions from: https://www.statology.org/pandas-select-rows-based-on-column-values/
 - Compare US to other countries within the top 5 carbon emitters.
 - How are US emissions trending amidst current talks of climate change and global warming? 
 - Percentage of world emissions for each of the top 5?
@@ -45,3 +44,8 @@ Personally, I write in a conversational tone. I view this project as more of a t
 ## Sources:
 - Dataset:          https://www.kaggle.com/datasets/ulrikthygepedersen/co2-emissions-by-country
 - Country Codes:    https://raw.githubusercontent.com/lukes/ISO-3166-Countries-with-Regional-Codes/master/all/all.csv
+
+## Special Recognition
+- Where would we be without ChatGPT? It's such a helpful tool.
+- Thank you to the numerous websites and tutorials and StackOverflow queries.
+- Finally, I owe thanks to the mentors of my Code Louisville session. It has been quite the journey.
