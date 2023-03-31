@@ -12,6 +12,7 @@ Enter this beginner level project. I'll be using my rudimentary analytical skill
 - There is an additional backup_country_codes.csv listed under assets just in case my raw country codes data doesn't properly read in via the url. If the url fails, then follow the marked down instructions in the jupyter notebook.
 
 ## How to read project:
+Personally, I write in a conversational tone. I view this project as more of a teachable piece for me and less so a professional showcase for future employers. I've marked down pieces of code to help explain why it was needed and what it was accomplishing. Hopefully, this will serves as an aid for me in the future when I'm working on future, more serious projects.
 
 ## Questions being answered:
 
@@ -25,6 +26,22 @@ Enter this beginner level project. I'll be using my rudimentary analytical skill
 - How are US emissions trending amidst current talks of climate change and global warming? 
     - The world?
 - Percentage of world emissions for each of the top 5?
+
+## Code Louisville Project Requirements:
+- Read in CSV files
+    - via local file
+    - via URL
+- Manipulated and Cleaned data
+    - Rounded data to nearest hundredths
+    - Renamed columns for better readability
+    - Sorted data by specific date
+- Analysis
+    - Trendlines were generated
+    - Percentage of the world output was calculated per top 5 country.
+    - Mean output per decade was generated.
+    - Percent change calculated on data points.
+- Visualize Data
+    - Multiple graphs were generated
 
 
 ## Sources:
